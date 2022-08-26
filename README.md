@@ -40,17 +40,17 @@ There are two subsets of files in this project folder: (1) Fourteen R (.R) and M
 
 * 8_calc_proportions.m – Calculate the percentage of pixels that occurs in eight different discrete classes of relative change in the FRP (i.e., ratio).
 
-* 11_FIG_2.m – Creates Figure 2 in Young et al. (2016).
+* 11_FIG_2.m – Creates Figure 2 in Young et al. (2017).
 
-* 12_FIG_3.m – Creates Figure 3 in Young et al. (2016).
+* 12_FIG_3.m – Creates Figure 3 in Young et al. (2017).
 
-* 13_FIG_4.m – Creates Figure 4 in Young et al. (2016).
+* 13_FIG_4.m – Creates Figure 4 in Young et al. (2017).
 
-* 14_FIG_5.m – Creates Figure 5 in Young et al. (2016).
+* 14_FIG_5.m – Creates Figure 5 in Young et al. (2017).
 
-* 15_FIG_6.m – Creates Figure 6 in Young et al. (2016).
+* 15_FIG_6.m – Creates Figure 6 in Young et al. (2017).
 
-* 16_FIG_7.m – Creates Figure 7 in Young et al. (2016).
+* 16_FIG_7.m – Creates Figure 7 in Young et al. (2017).
 
 * *Please note, the following functions must be downloaded from the MATLAB file exchange to successfully fun the FIG_2, FIG_3, FIG_6, and FIG_7 files.*  
 
