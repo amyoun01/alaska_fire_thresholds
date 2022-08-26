@@ -72,8 +72,8 @@ Functions:
           per pixel for a user-defined time period.
 
         ----------------------------------------------------------------------------------------------------------------------------
-        ---------------- PLEASE NOTE, THE FOLLOWING FUNCTIONS MUST BE DOWNLOADED FROM THE ------------------------------------------
-        ---------------- MATLAB FILE EXCHANGE TO SUCCESSFULLY RUN THE FIG_2, FIG_3, FIG_6, AND FIG_7 SCRIPTS -----------------------
+        PLEASE NOTE, THE FOLLOWING FUNCTIONS MUST BE DOWNLOADED FROM THE MATLAB FILE EXCHANGE TO SUCCESSFULLY RUN THE FIG_2, FIG_3, 
+	FIG_6, AND FIG_7 SCRIPTS.
         ----------------------------------------------------------------------------------------------------------------------------
 
 	* barwitherr.m – Creates bar graph with error bars  - used in Fig. 3. Created by Martina Callaghan and obtained from Matlab 
