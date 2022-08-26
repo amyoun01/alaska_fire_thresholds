@@ -5,7 +5,7 @@
 % 
 % Fig. 2: Depictions of model performance, including (a) observed fire 
 % rotation periods (FRPs) from 1950-2009 for Alaskan ecoregions as a 
-% reference, (b-d) model predicted fire rotation periods for each 2 × 2 km 
+% reference, (b-d) model predicted fire rotation periods for each 2 Ã— 2 km 
 % pixel in Alaska, and (e-g) plots comparing observed fire rotation periods 
 % against model predictions per ecoregion. Grey colored points in panels 
 % e-g are individual predictions and observations from the 100 boosted 
